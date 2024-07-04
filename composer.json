@@ -1,0 +1,17 @@
+{
+    "name": "sf/php_mvc",
+    "type": "project",
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gvborzov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
